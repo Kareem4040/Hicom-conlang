@@ -1,17 +1,29 @@
 Numbers can represent amount, time and multiples (iji can mean 1/first/once/only)
 ****
 Na - 0
+
 Iji - 1
+
 Ni - 2
+
 Han - 3
+
 Son - 4
+
 Go - 5
+
 Jen - 6
+
 Hin - 7
+
 Bun - 8
+
 Hab - 9
+
 Jib - 10
+
 Job - 100
+
 Jobti - 1000
 ****
 - The -ti suffix means to multiply by ten
