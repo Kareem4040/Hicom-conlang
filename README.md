@@ -1,5 +1,5 @@
 # Hicom-conlang
-Inspired by toki pona
+heavily Inspired by toki pona and japanese
 ## High context language
 
 # NOUNS
