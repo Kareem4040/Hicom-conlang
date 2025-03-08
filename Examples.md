@@ -1,34 +1,34 @@
 🟢Yo li hi ka?
 `Hey, how are you?`
 
-🟥Li hi, to?
+🟥Li hi, wa ti?
 `I'm good, and (you)?`
 
 🟢Li hi sa.
 `I'm good too`
 
-🟥Nan Jan?
+🟥Nan wa Jan?
 `What's your name?`
 
-🟢Jan Kareem, to?
+🟢Jan wa Kareem, to?
 `My name's Kareem, and you?`
 
 🟥Jan John.
 `My name's John`
 
-🟢Nan li musi?
+🟢Nan wa li musi?
 `What are your hobbies?`
 
-🟥Li musi: li mun musi to li musi Ennusu musi
+🟥Li musi wa li mun musi to li musi Ennusu musi
 `My hobbies are: Listening to music and playing offline games`
 
 🟢Hi, mi sa
 `Cool, me too`
 
-🟥Li consa ti ima!
-`Cya later`
+🟥Hubnan
+`Cya`
 
-🟢Ti sa!
+🟢Ti sa
 `You too`
 
 ***
