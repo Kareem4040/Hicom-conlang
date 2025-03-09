@@ -1,4 +1,4 @@
-- Li - verb defining and independent, also can mean "do"
+- Li - verb defining and connected prefix, also can mean "do"
 
 - Wo - loanword defining and connected prefix
 
