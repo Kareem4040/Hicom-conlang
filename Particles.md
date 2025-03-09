@@ -8,7 +8,7 @@
 
 - Shi - (higher) intensity defining and independent (like "very", "better" or "best") but does the opposite when with Ike (meaning "less", "worse" or "worst")
 
-- Wa - Topic defining (like "is") usually used in questions and formal speech
+- Wa - Topic defining (like "is") usually ommitted or used in questions and formal speech
 
 - The -ti suffix means to multiply by ten
 
